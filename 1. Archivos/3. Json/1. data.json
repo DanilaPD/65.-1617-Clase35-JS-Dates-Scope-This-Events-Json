@@ -1,0 +1,11 @@
+[{
+    "id": 1,
+    "nombre": "Pam",
+    "categoria": "revendedor"
+  },
+  {
+    "id": 2,
+    "nombre": "Juan",
+    "categoria": "vendedor"
+  }
+]
